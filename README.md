@@ -20,3 +20,16 @@
 <li>To determine the optimal number of clusters, look for the point where adding more clusters results in a relatively smaller decrease in WCSS.</li>
 <li>Example: If the plot has a noticeable "elbow" at k = 3, it means that adding more clusters beyond k = 3 results in diminishing returns, and thus k = 3 could be the optimal number of clusters.</li>
 <li>Example: Here we notice the WCSS decreasing at a slower rate at point 5, which we determine as the "elbow" of our plot. So our optimum number of clusters is 5</li>
+
+<h2>Analysis</h2>
+
+<img src="images/elbow_plot.JPG" width="500">
+
+1) Brown Cluster - Customers with low income but spend a lot
+2) Blue Cluster  - Customers with high income and spend a lot
+3) Magenta Cluster - Customers with low income and spend less
+4) Red Cluster - Customers with low high but spend less
+5) Purple Cluster - Customers with decent income but spend moderately
+
+<h2>Conclusion</h2>
+As the analysis suggests, companies would mostly target customers in the purple cluster as it includes maximum data points indicating that maximum customers lie in this range of income and spending tendencies. Pricing, Marketing strategies etc will mostly be dictated by this segment for best profits.
