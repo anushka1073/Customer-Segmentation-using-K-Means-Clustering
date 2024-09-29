@@ -15,7 +15,7 @@
         <li>Plot Clusters and Analyse the plot</li>
 
 <h2>Elbow Plot</h2>
-<img src="">
+<img src="images/elbow_plot.JPG" width="500">
 <li>The "elbow" of the curve is the point where the WCSS starts to decrease at a slower rate. Essentially, it's where the decrease in WCSS slows down significantly compared to previous cluster additions.</li>
 <li>To determine the optimal number of clusters, look for the point where adding more clusters results in a relatively smaller decrease in WCSS.</li>
 <li>Example: If the plot has a noticeable "elbow" at k = 3, it means that adding more clusters beyond k = 3 results in diminishing returns, and thus k = 3 could be the optimal number of clusters.</li>
