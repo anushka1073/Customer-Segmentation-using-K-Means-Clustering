@@ -23,7 +23,7 @@
 
 <h2>Analysis</h2>
 
-<img src="images/elbow_plot.JPG" width="500">
+<img src="images/customer_segments.JPG" width="800">
 
 1) Brown Cluster - Customers with low income but spend a lot
 2) Blue Cluster  - Customers with high income and spend a lot
